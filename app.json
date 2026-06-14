@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "手続き管理 for Business",
+    "slug": "gyosei-corp",
+    "version": "1.0.0",
+    "web": { "bundler": "metro" }
+  }
+}
